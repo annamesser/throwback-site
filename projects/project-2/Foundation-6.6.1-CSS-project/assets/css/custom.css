@@ -1,0 +1,46 @@
+/* custom css file */
+
+/* home page main image */
+
+#home-main-image {
+    background-image: url(../img/SRN-redcar.jpg);
+    background-size: cover;
+    padding-top: 80px;
+
+}
+
+#home-main-image .cell {
+    min-height: 300px;
+}
+
+blockquote {
+    font-style: italic;
+}
+
+#footer {
+color: bisque;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+h3 {
+    color: gray;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+footer {
+    background-color: #292929;
+    color: #FFF;
+    font-family: sans-serif;
+}
+
+footer label {
+    color: #FFF;
+}
+
