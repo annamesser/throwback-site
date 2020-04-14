@@ -1,7 +1,14 @@
 /* custom css for final project site */
 
+/* import statements (at the top of the file) */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
+/*font-family: 'Montserrat', sans-serif;*/
+
 /* add all css here */
 
 body { 
     background-color: cadetblue;
+    font-family: 'Montserrat', sans-serif;
 }
