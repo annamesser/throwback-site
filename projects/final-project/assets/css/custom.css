@@ -4,19 +4,28 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&display=swap');
+
 /*font-family: 'Montserrat', sans-serif;*/
+
+/*font-family: 'Bad Script', cursive; */
 
 /* add all css here */
 
 
 
 body { 
-    background-color: cadetblue;
-    font-family: 'Montserrat', sans-serif;
+    background-color: gray;
+    font-family: 'Bad Script', cursive;
 }
 
 h1 {
     font-family: 'Montserrat', sans-serif;
+}
+
+h5 {
+    font-family: 'montserrat', sans-serif;
+   
 }
 
 .off-canvas-content {
@@ -27,6 +36,7 @@ h1 {
     background-color: grey;
 
 }
+
 
 
 /*footer css*/ 
