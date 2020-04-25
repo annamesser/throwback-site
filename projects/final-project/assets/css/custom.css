@@ -136,17 +136,23 @@ li {
    overflow: auto; 
    padding-top: 15px;
    padding-bottom: 15px;
+   
 }
 
 .gallery {
     margin: 5px;
     float: left;
     width: 390px;
+    font-family: 'Lora', serif;
+    padding-left: 10px;
+    padding-right: 10px;
+    
 }
 
 .gallery img {
     width: 100%;
     height: auto;
+    box-shadow: 3px 3px 3px 2px rgb(58, 58, 58);
 }
 
 .desc {
